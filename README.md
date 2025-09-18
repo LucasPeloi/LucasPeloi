@@ -3,16 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasPeloi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue-dark&hide_border=true&order=2" height="151" alt="languages graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPeloi/LucasPeloi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasPeloi/LucasPeloi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasPeloi/LucasPeloi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
