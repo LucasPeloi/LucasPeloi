@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
+  <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/delphi-logo-256.webp" height="40" alt="Delphilogo" />
+  <img width="12" />
   
 </div>
 
