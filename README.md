@@ -1,4 +1,4 @@
-🎓 Estudante de Engenharia de Software | 🔐 Entusiasta em Segurança Cibernética | 💬 Comunicativo e Analítico
+Estudante de Engenharia de Software | Entusiasta em Segurança Cibernética | Comunicativo e Analítico
 
 ###
 
