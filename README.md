@@ -1,5 +1,3 @@
-```markdown
-```
 <p align="right">
   <a href="README.md">
     <img src="https://img.shields.io/badge/Language-English-00F79F?style=flat-square&labelColor=0D1117" alt="English"/>
@@ -21,13 +19,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/LucasPeloi?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <img src="https://img.shields.io/badge/Open_to_Work-00F79F?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=LucasPeloi&style=for-the-badge&color=0D1117&label=Profile+Views"/>
 
 </p>
 
