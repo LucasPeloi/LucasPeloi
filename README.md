@@ -1,4 +1,5 @@
 ```markdown
+```
 <p align="right">
   <a href="README.md">
     <img src="https://img.shields.io/badge/Language-English-00F79F?style=flat-square&labelColor=0D1117" alt="English"/>
@@ -16,7 +17,7 @@
 
 <p align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/lucas-peloi">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Open_to_Work-00F79F?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0D1117&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=LucasPeloistyle=for-the-badge&color=0D1117&label=Profile+Views"/>
 
 </p>
 
@@ -173,20 +174,20 @@ Projects developed during my Software Engineering degree involving software mode
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasPeloi&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPeloi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeloi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LucasPeloi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
