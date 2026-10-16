@@ -212,4 +212,3 @@ Feel free to connect with me on LinkedIn!
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F79F,50:0B3D2E,100:0D1117&height=120&section=footer&text=Keep%20Learning.%20Keep%20Building.&fontSize=20&fontColor=ffffff&fontAlignY=70"/>
-```
