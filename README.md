@@ -17,7 +17,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/lucas-peloi">
+<a href="https://www.linkedin.com/in/lucas-peloi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/Open_to_Work-00F79F?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=LucasPeloistyle=for-the-badge&color=0D1117&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=LucasPeloi&style=for-the-badge&color=0D1117&label=Profile+Views"/>
 
 </p>
 
@@ -46,7 +46,6 @@ I'm passionate about programming, software architecture and solving real-world p
 ## 🎓 Education
 
 - 🎓 Software Engineering Undergraduate
-- 💻 Technical Degree in Systems Development
 
 ---
 
