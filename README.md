@@ -154,12 +154,6 @@ Desktop application for contact management using Java.
 
 ---
 
-### Clothing Store Website
-
-Responsive website built with HTML, CSS and JavaScript.
-
----
-
 ### College Projects
 
 Projects developed during my Software Engineering degree involving software modeling, programming and problem solving.
